@@ -3,7 +3,7 @@
 > Modern • Scalable • Secure E-Commerce Engineering
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/ecommerce/ecommerce.png" width="120" /> 
+  <img src="./ecommerce.png" /> 
 </p> 
 <p align="center"> 
   <b>A complete e-commerce ecosystem powered by Next.js, Spring Boot, PostgreSQL, Redis, Docker & Kubernetes.</b> 
