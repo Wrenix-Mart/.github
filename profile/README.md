@@ -2,9 +2,25 @@
 
 > Modern • Scalable • Secure E-Commerce Engineering
 
-<p align="center"> <img src="https://raw.githubusercontent.com/github/explore/main/topics/ecommerce/ecommerce.png" width="120" /> </p> <p align="center"> <b>A complete e-commerce ecosystem powered by Next.js, Spring Boot, PostgreSQL, Redis, Docker & Kubernetes.</b> </p>
-🏷️ Badges
-<p align="center"> <!-- Tech Stack Badges --> <img src="https://img.shields.io/badge/Frontend-Next.js-black?logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> <br> <!-- Project Status Badges --> <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat" /> <img src="https://img.shields.io/badge/License-Private-red?style=flat" /> </p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/ecommerce/ecommerce.png" width="120" /> 
+</p> 
+<p align="center"> 
+  <b>A complete e-commerce ecosystem powered by Next.js, Spring Boot, PostgreSQL, Redis, Docker & Kubernetes.</b> 
+</p>
+
+<p align="center"> 
+  <!-- Tech Stack Badges --> 
+  <img src="https://img.shields.io/badge/Frontend-Next.js-black?logo=nextdotjs&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-6DB33F?logo=springboot&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-316192?logo=postgresql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?logo=redis&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?logo=docker&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> 
+  <br> 
+  <!-- Project Status Badges --> 
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat" /> 
+  <img src="https://img.shields.io/badge/License-Private-red?style=flat" /> </p>
 
 ## What is Wrenix Mart?
 
